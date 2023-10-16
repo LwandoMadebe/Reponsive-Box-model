@@ -3,6 +3,10 @@ Hi. This is my Introduction, please feel free to add comments so that I will imp
 # Reponsive-Box-model
 The CSS box model used a container that contains many properties, margin, padding,etc. I used this box model to introduce myself and to showcase some of my skills. 
 
+The first box is about me. 
+The second box is about skills. 
+The third box is about innovative. 
+
 # Screenshot 
 Have fun!
 ![Screenshot (17)](https://github.com/LwandoMadebe/Reponsive-Box-model/assets/147529941/2be169fb-7622-4188-a39d-be1bc7a8da0e)
